@@ -1,0 +1,11 @@
+{
+    "name": "sky/bigint",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "require": {},
+    "autoload": {
+        "files": ["src/lib.php"]
+    }
+}
